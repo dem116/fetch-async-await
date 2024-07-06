@@ -66,3 +66,12 @@ header {
 #searchBtn:hover, #prevBtn:hover, #nextBtn:hover, #resetBtn:hover {
   opacity: 0.8;
 }
+
+.pokemon-card{
+  background-color: white;
+  padding: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 2px solid;
+  border-color: gainsboro;
+}
